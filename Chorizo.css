@@ -76,3 +76,20 @@ body{
     background-color: white;
 }
 
+button{
+    display: flex;
+    justify-content: center;
+    background-color: darkgoldenrod;
+    color: black;
+    width: 280px;
+    border: 15px solid black;
+    padding: 50px;
+    margin: 0 auto;
+}
+
+img{
+    color: black;
+    width: 150px;
+    margin: 0 auto;
+}
+
