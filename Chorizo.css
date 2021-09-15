@@ -1,0 +1,78 @@
+.facebook-style{
+    font-size: 20px;
+    color:white;
+    color: white;
+    font: Klavika;
+    background-color: darkblue;
+    text-align: center;
+    margin: 0 auto;
+}
+
+@media only screen and (min-width: 640px){
+    .facebook-style{
+        font-size: 30px;
+        color: white;
+        font: Klavika;
+        background-color: darkblue;
+        text-align: center;
+        margin: 0 auto;
+        
+    }
+    
+}
+
+.sub-style{
+    font-size: 12px;
+    color:darkblue;
+    font: Klavika;
+    background-color: grey;
+    text-align: center;
+    border: 15px solid grey;
+    margin: 0 auto;
+    padding: 0;
+}
+
+@media only screen and (min-width: 640px){
+    .sub-style{
+        font-size: 30px;
+        color:darkblue;
+        font: Klavika;
+        background-color: grey;
+        text-align: center;
+    }
+    
+}
+
+div {
+    width: 150px;
+    font-size: 30px;
+    font: Klavika;
+    border: 15px solid grey;
+    padding: 50px;
+    background-color: darkblue;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+ol {
+    text-align: center;
+    color: black;
+    width: 150px;
+    border: 15px solid grey;
+    padding: 50px;
+    margin: 0 auto;
+  }
+
+p {
+    text-align: center;
+    color: black;
+    width: 150px;
+    border: 15px solid grey;
+    padding: 50px;
+    margin: 0 auto;
+  }
+
+body{
+    background-color: white;
+}
+
